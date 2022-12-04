@@ -34,6 +34,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/notes_timestamp_text_view"
         android:text="Time"
+        android:textColor="@color/white"
         android:maxLines="2"
         android:ellipsize="end"
         android:textSize="12sp"
